@@ -43,3 +43,6 @@ if st.button('Simulate'):
     plt.ylabel('Ratio of Buyers')
     plt.grid(True)
     st.pyplot(plt)
+    
+    
+    
