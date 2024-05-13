@@ -1,6 +1,6 @@
 import streamlit as st
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 def simulate_bandwagon_effect(population_size, rounds, initial_buyers_ratio):
     population = np.zeros(population_size)
